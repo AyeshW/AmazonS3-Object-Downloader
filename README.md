@@ -31,4 +31,3 @@ This project supposed that you have a AmazonS3 bucket with a structure like belo
         |               |   +-- file2.log
         |   +-- singer
         |   +-- softlogic
-             
