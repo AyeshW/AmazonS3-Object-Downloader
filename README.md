@@ -2,6 +2,7 @@
 This is a simple project which can be used to download objects in a bucket iterating trough directories.
 
 This project supposed that you have a AmazonS3 bucket with a structure like below.
+
 .
 +-- bucket-name
 |   +-- production
